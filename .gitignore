@@ -1,0 +1,5 @@
+*
+!.gitignore
+!ollamareg.py
+!requirements.txt
+!data/
