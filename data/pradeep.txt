@@ -1,0 +1,131 @@
+Pradeep mantha
+Senior manager, Salesforce
+Currently lives in SunnyVale, in the bay area
+Married to Nikitha D, Father to Gautham mantha
+Originally from andhra pradesh
+enjoys to go to the gym, run, swim, and bike
+likes to eat biriyani
+
+User
+Projects
+Benchmarking NoSQL databases for Scientific ApplicationsBenchmarking NoSQL databases for Scientific Applications
+
+Associated with Lawrence Berkeley National LaboratoryAssociated with Lawrence Berkeley National Laboratory
+Compare performance and applicability of NOSQL databases like Cassandra, HBase for scientific applications.
+• Develop python based custom benchmark scripts using Pycassa API for managing reads/writes on Cassandra, similarly HappyBase client interface for HBase. The benchmark simulates the query requests from single node to multiple nodes.
+• Compare the custom benchmark performance against Yahoo’s cloud servicing benchmark tool.
+
+
+Technology: Python, Cassandra, HBase, YCSB, Pycassa, HappyBase.Compare performance and applicability of NOSQL databases like Cassandra, HBase for scientific applications. • Develop python based custom benchmark scripts using Pycassa API for managing reads/writes on Cassandra, similarly HappyBase client interface for HBase. The benchmark simulates the query requests from single node to multiple nodes. • Compare the custom benchmark performance against Yahoo’s cloud servicing benchmark tool. Technology: Python, Cassandra, HBase, YCSB, Pycassa, HappyBase.
+Cloud Energy and Emissions Research ModelCloud Energy and Emissions Research Model
+
+Associated with Lawrence Berkeley National LaboratoryAssociated with Lawrence Berkeley National Laboratory
+Show project
+The C L E E R (Cloud Energy and Emissions Research) Model is a comprehensive user friendly open-access model for assessing the net energy and emissions implications of cloud services in different regions and at different levels of market adoption. The model aims to provide full transparency on calculations and input value assumptions so that its results can be replicated and its data and methods can be easily refined and improved by the research community.The C L E E R (Cloud Energy and Emissions Research) Model is a comprehensive user friendly open-access model for assessing the net energy and emissions implications of cloud services in different regions and at different levels of market adoption. The model aims to provide full transparency on calculations and input value assumptions so that its results can be replicated and its data and methods can be easily refined and improved by the research community.
+Flexible Robust Intelligent Elastic Data ManagementFlexible Robust Intelligent Elastic Data Management
+
+Associated with Lawrence Berkeley National LaboratoryAssociated with Lawrence Berkeley National Laboratory
+Show project
+Scientific applications are increasingly using cloud resources for their data analysis workflows. We use the cloud loosely to signify transient environments. However, managing data effectively and efficiently over these cloud resources is challenging due to the myriad storage choices with different performance, cost trade-offs, complex application choices and complexity associated with elasticity, failure rates in these environments. The different data access patterns for data-intensive scientific applications require a more flexible and robust data management solution than the ones currently in existence. FRIEDA is a Flexible Robust Intelligent Elastic Data Management framework that employs a range of data management strategies approaches in elastic environments.
+
+EducationEducation
+Louisiana State University logo
+Louisiana State UniversityLouisiana State University
+Masters, Computer ScienceMasters, Computer Science
+2010 - 20122010 - 2012
+Grade: 4.0Grade: 4.0
+Jawaharlal Nehru Technological University logo
+Jawaharlal Nehru Technological UniversityJawaharlal Nehru Technological University
+B.Tech, Computer Science EngineeringB.Tech, Computer Science Engineering
+2002 - 2006
+
+
+SalesforceSalesforce
+10 yrs 6 mos10 yrs 6 mos
+Senior Engineering ManagerSenior Engineering Manager
+Full-timeFull-time
+Aug 2021 - Present · 2 yrs 8 mosAug 2021 - Present · 2 yrs 8 mos
+San Francisco Bay AreaSan Francisco Bay Area
+Principal Software EngineerPrincipal Software Engineer
+Full-timeFull-time
+Nov 2019 - Jan 2022 · 2 yrs 3 mosNov 2019 - Jan 2022 · 2 yrs 3 mos
+San Francisco Bay AreaSan Francisco Bay Area
+Einstein Platform (Current)
+
+Building secure(auth/authz) multi-tenant, multi-substrate, highly scalable AI Platform for Data Scientists and App Developers.
+
+Einstein Voice (Sept 2019)
+
+Part of the development efforts for the Einstein Voice Service (Automatic Speech Recognition(ASR) and Text to Speech(TTS)) leveraging AI/ML/Deep Learning technologies on Kubernetes.
+
+
+Einstein Analytics platform (April 2019)
+
+- Analytics at scale
+- Data Platform
+- Platform infrastructure
+- Patents: https://patents.justia.com/inventor/pradeep-manthaEinstein Platform (Current) Building secure(auth/authz) multi-tenant, multi-substrate, highly scalable AI Platform for Data Scientists and App Developers. Einstein Voice (Sept 2019) Part of the development efforts for the Einstein Voice Service (Automatic Speech Recognition(ASR) and Text to Speech(TTS)) leveraging AI/ML/Deep Learning technologies on Kubernetes. Einstein Analytics platform (April 2019) - Analytics at scale - Data Platform - Platform infrastructure - Patents: https://patents.justia.com/inventor/pradeep-mantha
+Lead Software EngineerLead Software Engineer
+Jul 2017 - Nov 2019 · 2 yrs 5 mosJul 2017 - Nov 2019 · 2 yrs 5 mos
+San Francisco Bay AreaSan Francisco Bay Area
+Senior Member of Technical Staff, BigData AnalyticsSenior Member of Technical Staff, BigData Analytics
+Dec 2014 - Jul 2017 · 2 yrs 8 mosDec 2014 - Jul 2017 · 2 yrs 8 mos
+Member of Technical Staff, BigData AnalyticsMember of Technical Staff, BigData Analytics
+Oct 2013 - Dec 2014 · 1 yr 3 mosOct 2013 - Dec 2014 · 1 yr 3 mos
+San Francisco Bay AreaSan Francisco Bay Area
+Berkeley Lab logo
+Computer Systems EngineerComputer Systems Engineer
+Lawrence Berkeley National LaboratoryLawrence Berkeley National Laboratory
+Nov 2012 - Oct 2013 · 1 yrNov 2012 - Oct 2013 · 1 yr
+As a member of Advanced Computing for Science department, I work on research projects in the area of distributed computing systems with a focus on data and compute intensive processes .As a member of Advanced Computing for Science department, I work on research projects in the area of distributed computing systems with a focus on data and compute intensive processes .
+Graduate Research Assistant of Center for Computation TechnologyGraduate Research Assistant of Center for Computation Technology
+Louisiana State UniversityLouisiana State University
+Aug 2011 - Dec 2011 · 5 mosAug 2011 - Dec 2011 · 5 mos
+Timing and cost-effective processing of large distributed datasets has become a critical ingredient for success of many academic, government and industrial organizations. MapReduce is an effective programming model for processing large datasets and can be easily scaled across multiple high performance clusters. Unfortunately, traditional Hadoop MapReduce is designed for cluster/local environment, but not for a high degree of distribution. A distributed, scalable and interoperable MapReduce framework is required to process huge datasets, where both data & computational resources distributed across different geographically located datacenters.
+
+Technology: Python, Hadoop, MapReduce, Simple API for Grid Applications, Grid scheduling systems, Genome sequencing aligners.
+Infrastructure: National Science Funded infrastructures like FutureGrid, TeraGrid and LONI.
+• Designed & developed interoperable, scalable and distributed MapReduce framework to process huge distributed datasets on distributed computational resources and improves time to solution.
+• Developed genome sequencing MapReduce application and test performance, scalability and interoperability of MapReduce framework.
+• Setup Hadoop clusters on Grid machines and benchmarked developed MapReduce genome sequence application with Hadoop MapReduce based next generation sequencing applications like Seqal and Crossbow.
+• Integrated the MapReduce framework with existing Next Generation Sequencing tools and improve their scalability and processing capabilitiesTiming and cost-effective processing of large distributed datasets has become a critical ingredient for success of many academic, government and industrial organizations. MapReduce is an effective programming model for processing large datasets and can be easily scaled across multiple high performance clusters. Unfortunately, traditional Hadoop MapReduce is designed for cluster/local environment, but not for a high degree of distribution. A distributed, scalable and interoperable MapReduce framework is required to process huge datasets, where both data & computational resources distributed across different geographically located datacenters. Technology: Python, Hadoop, MapReduce, Simple API for Grid Applications, Grid scheduling systems, Genome sequencing aligners. Infrastructure: National Science Funded infrastructures like FutureGrid, TeraGrid and LONI. • Designed & developed interoperable, scalable and distributed MapReduce framework to process huge distributed datasets on distributed computational resources and improves time to solution. • Developed genome sequencing MapReduce application and test performance, scalability and interoperability of MapReduce framework. • Setup Hadoop clusters on Grid machines and benchmarked developed MapReduce genome sequence application with Hadoop MapReduce based next generation sequencing applications like Seqal and Crossbow. • Integrated the MapReduce framework with existing Next Generation Sequencing tools and improve their scalability and processing capabilities
+Intel Corporation logo
+Graduate InternGraduate Intern
+Intel CorporationIntel Corporation
+May 2011 - Aug 2011 · 4 mosMay 2011 - Aug 2011 · 4 mos
+Adaptive test and Pin-based Process Control Systems (PCS) require prototyping to ensure that these methods are sufficiently flexible and robust for High Volume Manufacturing (HVM) intercept; some of these activities will feed into upgrade of existing tools.
+
+
+Technology: R, C#, ASP.Net, Oracle, SQL, SQL Server. 
+
+Role: software programmer
+• Developing robust channel-to-pin mapping algorithms
+• Generation of well-designed PCS and adaptive test user interfaces, as well as a refresh to the existing user interface to
+accommodate new statistical methods and features.
+• Generation of algorithms to auto-sample data from Oracle databases to fulfill sample size and distribution
+requirements.
+• Running test cases to prove robustness.Adaptive test and Pin-based Process Control Systems (PCS) require prototyping to ensure that these methods are sufficiently flexible and robust for High Volume Manufacturing (HVM) intercept; some of these activities will feed into upgrade of existing tools. Technology: R, C#, ASP.Net, Oracle, SQL, SQL Server. Role: software programmer • Developing robust channel-to-pin mapping algorithms • Generation of well-designed PCS and adaptive test user interfaces, as well as a refresh to the existing user interface to accommodate new statistical methods and features. • Generation of algorithms to auto-sample data from Oracle databases to fulfill sample size and distribution requirements. • Running test cases to prove robustness.
+Louisiana State University logo
+Graduate Research Assistant of Center for Computation TechnologyGraduate Research Assistant of Center for Computation Technology
+Louisiana State UniversityLouisiana State University
+Jul 2010 - May 2011 · 11 mosJul 2010 - May 2011 · 11 mos
+• Currently working on National Science Funded (NSF) Louisiana Alliance for Simulation-Guided Materials Applications (LA-SIGMA) project.
+• Involved in National Institute of Health (NIH) funded Louisiana Biomedical Research Network (LBRN) Project, which involves developing distributed “CyberInfrastructure” to effectively utilize Louisiana Optical Network Initiative (LONI) & TeraGrid resources for Computational Biology research using Simple API for Grid Applications (SAGA).
+• Involved in Implementing distributed data-intensive computing applications using programming paradigms like MapReduce. Developed inter-operable MapReduce framework in Python, which uses Simple API for Grid Application (SAGA) adaptors to deal with different file systems or infrastructure. The worker processes will be launched on heterogeneous grid machines or on cloud, which process huge data files stored on different file systems. The Simple API for Grid Application (SAGA) distributed programming interface addresses interoperability problem, which is a challenge faced by distributed applications. The paper on this research topic is expected to be published in February-2012.• Currently working on National Science Funded (NSF) Louisiana Alliance for Simulation-Guided Materials Applications (LA-SIGMA) project. • Involved in National Institute of Health (NIH) funded Louisiana Biomedical Research Network (LBRN) Project, which involves developing distributed “CyberInfrastructure” to effectively utilize Louisiana Optical Network Initiative (LONI) & TeraGrid resources for Computational Biology research using Simple API for Grid Applications (SAGA). • Involved in Implementing distributed data-intensive computing applications using programming paradigms like MapReduce. Developed inter-operable MapReduce framework in Python, which uses Simple API for Grid Application (SAGA) adaptors to deal with different file systems or infrastructure. The worker processes will be launched on heterogeneous grid machines or on cloud, which process huge data files stored on different file systems. The Simple API for Grid Application (SAGA) distributed programming interface addresses interoperability problem, which is a challenge faced by distributed applications. The paper on this research topic is expected to be published in February-2012.
+Systems AnalystSystems Analyst
+ConvergysConvergys
+May 2006 - Jul 2010 · 4 yrs 3 mosMay 2006 - Jul 2010 · 4 yrs 3 mos
+4yr+ experience in the Application Development such as requirement analysis, design, coding, unit/integration 
+testing and implementation of Telecom billing product as System Analyst.
+• Involved in incorporating different new functionality to the Convergent Wireless Telecom Billing Products such as
+ATLYS®, Mediation Manager, Activation Manager for various USA and BRAZIL clients.
+• Performed Requirement Analysis, Efforts Estimation, Design, Development, Unit Testing and Integration testing for
+the identified functionality on urgent basis to meet the quarterly release due dates.
+• Utilized efficient C++ data Structures to handle the customer information for loading into application and storing
+into database for required functionality.
+• Performed memory leak testing for the code developed using Purify or Great Circle software.
+• Developed Perl scripts for huge database record updates and file manipulation.
+
+A software engineer with considerable experience in distributed secure application development on bare metal/cloud computing technologies and eagerness to innovate.
+
+Specialties: Big Data, Batch/Low latency Scalable processing Systems, AI/ML/DL, Cloud Computing, M&A due diligence.
